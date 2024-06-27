@@ -1,10 +1,10 @@
 ![Capture](https://github.com/SarangaSiriwardhana9/Saranga-Siriwardhana/assets/99233703/8b6787cb-86d6-4145-98c3-0c58c7307e87)
 
-# SarangaSiriwardhana9--Personal-Portfolio-Website-in-React
+# Sathmini Subasinghe--Personal-Portfolio-Website-in-React
 
 
 
-#Saranga Siriwardhana || Personal Portfolio
+#Sathmini Subasinghe|| Personal Portfolio
 "My portfolio website has been professionally designed to offer an engaging and visually compelling user experience. Built using the latest 
 technologies such as ReactJS, Tailwind CSS, Framer-Motion, React-Slick, and React-Scroll, the website showcases my skills and achievements
 through dynamic transitions, intuitive navigation, and engaging animations. By leveraging these technologies, my portfolio website stands 
